@@ -11,6 +11,8 @@ body {
   text-align: center;
   background-color: rgb(95, 87, 87);
   color: blue;
+  font: bold;
+  font-family: 'family';
 }
 
 a {
@@ -24,7 +26,6 @@ a {
   font-size: 20px;
   right: 450px;
   left: 450px;
-
 }
 
 img {
